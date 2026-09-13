@@ -2,56 +2,89 @@
 
 I'm a **Full-Stack Developer** passionate about building modern, reliable, and user-friendly web applications.
 
-I'm particularly interested in **Frontend, Backend, APIs, Databases, and DevOps**.
+I enjoy working across the entire development process, from designing responsive user interfaces to building backend APIs, managing databases, writing automated tests, and deploying applications to the cloud.
+
+I'm particularly interested in **Full-Stack Development, Software Engineering, Testing, and DevOps**.
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Technologies & Tools
 
 ### Frontend
 
-* Next.js
 * React
+* Next.js
 * TypeScript
 * Tailwind CSS
 
-### Backend
+### Backend & Databases
 
 * Node.js
 * Express.js
-* Prisma
+* Prisma ORM
 * PostgreSQL
 
-### Tools & DevOps
+### Testing
 
-* Git
-* GitHub
+* Vitest
+* Playwright
+
+### DevOps & Cloud
+
+* Git & GitHub
 * Docker
+* GitHub Actions (CI/CD)
+* AWS
+* Vercel
 
 ---
 
-## 📂 Projects I've Worked On
+## 📂 Projects
 
-* **[Todo Application](#)** : A full-stack task management application with authentication, CRUD operations, and a PostgreSQL database.
+### 📝 Notes App
+
+A full-stack notes management application built with Next.js, TypeScript, Tailwind CSS, Prisma, and PostgreSQL.
+
+* Authentication and authorization
+* CRUD operations for notes
+* Search, filtering, sorting, and pagination
+* Automated testing with Vitest
+* Dockerized development environment
+
+### 🛒 E-Commerce Application
+
+A full-stack e-commerce project focused on building a real-world shopping experience, including product management, authentication, and backend API integration.
+
+* React and TypeScript
+* Node.js and Express.js
+* Prisma and PostgreSQL
+* Docker
+* Automated testing
+
+More projects coming soon as I continue building and improving my portfolio.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Improving
 
-* Automated Testing
-* Backend Architecture
-* Deployment
-* Software Engineering Best Practices
+* End-to-end testing with Playwright
+* CI/CD pipelines with GitHub Actions
+* Cloud deployment with AWS and Vercel
+* Backend architecture and API design
+* Software engineering best practices
 
 ---
 
 ## 🎯 My Goal
 
-To become a stronger full-stack developer by building real-world applications, understanding how systems work from frontend to backend, and continuously improving my engineering skills.
+To become a strong Full-Stack Developer by building real-world applications, writing maintainable code, and continuously improving my frontend, backend, testing, and DevOps skills.
 
 ---
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: **[LinkedIn](#)**
-* 📧 Email: **[abderrahim.elouahhaby97@gmail.com.com](mailto:abderrahim.elouahhaby97@gmail.com.com)**
+* 💼 LinkedIn: [LinkedIn](#)
+* 📧 Email: [Email](#)
+* 💻 GitHub: [GitHub](#)
+
+Thanks for visiting my profile! 🚀
