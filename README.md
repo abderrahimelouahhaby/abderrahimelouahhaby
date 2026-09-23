@@ -83,8 +83,7 @@ To become a strong Full-Stack Developer by building real-world applications, wri
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: [LinkedIn](#)
-* 📧 Email: [Email](#)
-* 💻 GitHub: [GitHub](#)
+* 💼 LinkedIn: [www.linkedin.com/in/abderrahim-elouahhaby-120baa439](#)
+* 📧 Email: [contact.mee712@gmail.com](#)
 
 Thanks for visiting my profile! 🚀
