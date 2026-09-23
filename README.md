@@ -83,7 +83,7 @@ To become a strong Full-Stack Developer by building real-world applications, wri
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/abderrahim-elouahhaby-120baa439)
+* 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/abderrahimelouahhaby/)
 
 * 📧 Email: [![Email](https://shields.io)](mailto:contact.mee712@gmail.com)
 
